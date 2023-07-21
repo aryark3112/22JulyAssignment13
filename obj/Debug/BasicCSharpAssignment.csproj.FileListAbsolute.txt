@@ -1,0 +1,8 @@
+D:\22JulyAssignment\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe.config
+D:\22JulyAssignment\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe
+D:\22JulyAssignment\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.pdb
+D:\22JulyAssignment\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.AssemblyReference.cache
+D:\22JulyAssignment\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.SuggestedBindingRedirects.cache
+D:\22JulyAssignment\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.CoreCompileInputs.cache
+D:\22JulyAssignment\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.exe
+D:\22JulyAssignment\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.pdb
